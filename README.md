@@ -3,7 +3,7 @@ This is a code I used in the following video:
 
 Columnar and Bamboo microstructure using NEPER | Neper software tutorial part 4
 
-Link of video: 
+Link of video: https://youtu.be/t_eqipgcoCo
 
 Email: notrealengineering@gmail.com
 
